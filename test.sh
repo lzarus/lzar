@@ -1,4 +1,4 @@
 #!/bin/bash
 
-phrase= "mandeha ve ty"
+phrase= "\n----mandeha ve ty ----"
 echo $phrase
